@@ -1,0 +1,13 @@
+ru/zourabkatirina/appliances/DBManager.java
+ ru.zourabkatirina.appliances.DBManager
+ru/zourabkatirina/appliances/AppliancesActivity.java
+ ru.zourabkatirina.appliances.AppliancesActivity
+ ru.zourabkatirina.appliances.AppliancesActivity$1
+ ru.zourabkatirina.appliances.AppliancesActivity$2
+ ru.zourabkatirina.appliances.AppliancesActivity$3
+ru/zourabkatirina/appliances/AddAppliancesActivity.java
+ ru.zourabkatirina.appliances.AddAppliancesActivity
+ru/zourabkatirina/appliances/MainActivity.java
+ ru.zourabkatirina.appliances.MainActivity
+ru/zourabkatirina/appliances/BuildConfig.java
+ ru.zourabkatirina.appliances.BuildConfig
